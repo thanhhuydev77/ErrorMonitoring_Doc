@@ -1,0 +1,4 @@
+docker build -t aoemsy1999/error-monitoring .
+docker push aoemsy1999/error-monitoring
+docker pull aoemsy1999/error-monitoring
+docker run -dp 8001:8001 aoemsy1999/error-monitoring:latest
