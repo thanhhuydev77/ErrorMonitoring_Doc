@@ -1,0 +1,50 @@
+Hà Thanh Huy
+Chương 1. MỞ ĐẦU
+Lý do chọn đề tài
+Mục tiêu
+Đối tượng
+Phạm vi
+Chương 2. TỔNG QUAN
+Phân tích các ứng dụng trong nước đã có
+2.1.1. 
+2.1.6. 
+Phân tích các ứng dụng nước ngoài
+2.2.1.  
+2.2.2.  
+2.2.3.  
+Tổng hợp  
+Chương 3. CÁC CÔNG NGHỆ SỬ DỤNG 
+
+Ngôn ngữ lập trình 
+3.1.1. Giới thiệu 
+3.1.2. Các khái niệm quan trọng trong 
+3.1.3. Những ưu điểm 
+Framework 
+3.2.2. Ưu điểm 
+3.2.3. Nhược điểm 
+NodeJs,...
+Chương 4. XÂY DỰNG VÀ TRIỂN KHAI SERVER
+Thiết kế dữ liệu
+4.1.1. Sơ đồ lớp
+4.1.2. Mô tả các lớp trong cơ sở dữ liệu .
+4.1.2.1. Lớp Songs
+4.1.2.2. Lớp Lyrics
+Nghiệp vụ
+4.2.1. Truy xuất dữ liệu
+4.2.2. Cập nhật dữ liệu
+Chương 5. XÂY DỰNG ỨNG DỤNG
+Phân tích yêu cầu 
+5.1.1. Sơ đồ use case tổng quát
+5.1.2. Danh sách actor
+5.1.3. Danh sách use case
+5.1.4. Đặc tả yêu cầu phần mềm
+5.1.4.1. Đặc tả use case "chi tiet"
+
+Giao diện ứng dụng
+5.2.1. Danh sách các màn hình
+5.2.2. Mô tả các màn hình
+5.2.2.1. Màn hình Loading
+5.2.2.2. Màn hình Home
+chuong 6
+Kết luận
+Hướng phát triển
